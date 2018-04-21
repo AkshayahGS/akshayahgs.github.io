@@ -14511,6 +14511,7 @@ body {
 }
 .cid-qPPKVbmzXp .mbr-author-desc {
   display: block;
+  color: #232323;
 }
 .cid-qPPKVbmzXp .mbr-testimonial {
   flex-basis: auto;
@@ -14559,7 +14560,10 @@ body {
   color: #232323;
 }
 .cid-qPPKVbmzXp H2 {
-  color: #ffffff;
+  color: #232323;
+}
+.cid-qPPKVbmzXp .mbr-author-name {
+  color: #232323;
 }
 .cid-qPtRlV0u6F {
   padding-top: 60px;
